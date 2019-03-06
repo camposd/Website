@@ -5,3 +5,5 @@ This repositry will contain all files for my personal website
 
 This is a line from Rstudio
 this is another change from r studio
+
+A lot of this is just repetition repetition
